@@ -1,9 +1,3 @@
-<h2><strong>Liscence :scroll::</strong></h3><ul>
-<li>This is an <em>open scource</em> project so you can copy what<br>
-do you want but you should at least understand the<br>
-code you have copied.<br><br>
-<li>You don't have permission to say this is your project.</ul>
-
 <h2><strong>Project describtion :page_facing_up::</strong></h3>
 This is classification, wragling and EDA project we will<br>
 try to create a very strong classification model that can<br>
@@ -33,12 +27,4 @@ using the plots and statistecs in the EDA section.<br>
   <li>Geeks for geeks
   <li>Machine learning mastery
   <li>Towards data science
-  <li>Of course stackoverflow
   <li>And a lot more...<br><br></ol>
-  
-<h2><strong>Thanks for :pray::</strong></h3><ul>
-  <li>Jet brains DataLore
-  <li>Kaggle
-  <li><a href= https://www.kaggle.com/yaheaal>Yahea Alashkar</a><em>(his project helped me(I didn't copy his code))</em>
-  <li>Udacity <em>(DECI scholarship)
-  <li>You!!
